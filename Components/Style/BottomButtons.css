@@ -1,0 +1,9 @@
+.BottomButtons-contianer {
+   display:flex; 
+   justify-content:center;
+   align-items: center;
+   border-radius: 12px;
+   background-color:   rgb(106, 148, 150);
+   height:50px; 
+   border-radius: 12px;
+}
